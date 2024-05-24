@@ -1,5 +1,5 @@
  Hi iam subramanya prabhu
-- 👀 I’m interested in java anfront end  concepts
+- 👀 I’m interested in java and front end  concepts
 - 🌱 I’m currently learning 2nd year bca
 
 
